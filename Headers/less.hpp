@@ -14,7 +14,6 @@
 # define LESS_HPP
 
 # include "binary_function.hpp"
-
 # include <iostream>
 
 namespace ft {
