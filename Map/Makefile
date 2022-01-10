@@ -25,7 +25,6 @@ INCLUDE 		+= 	../Headers/bidir_redblacktree_iterator.hpp	\
 					../Headers/enable_if.hpp			\
 					../Headers/equal.hpp				\
 					../Headers/is_integral.hpp			\
-					../Headers/iterator_traits.hpp		\
 					../Headers/iterator.hpp				\
 					../Headers/less.hpp					\
 					../Headers/lexicographical.hpp		\
