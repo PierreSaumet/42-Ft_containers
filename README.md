@@ -16,8 +16,18 @@ No prerequisites. Works on Ubuntu 18 and 20.
 _Follow these instructions to install the project._
 
 1. Clone the repository.
-	>git clone https://github.com/PierreSaumet/42-Ft_containers.git "YOUR_FOLDER_NAME"
+	```sh
+	git clone https://github.com/PierreSaumet/42-Ft_containers.git
+	```
 2. Compile the project.
-3. Use it.
+	```sh
+	cd 42-Ft_containers
+	make
+	```
+3. Enter the desired folder (Vector, Stack or Map) and have fun.
+	```sh
+	cd Vector
+	./vector
+	```
 
 ## Usage
