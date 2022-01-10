@@ -19,7 +19,6 @@
 # include <new>
 # include <cstdlib>
 # include <limits>
-// # include "../Headers/iterator_traits.hpp"
 # include "../Headers/random_access_iterator.hpp"
 # include "../Headers/reverse_random_access_iterator.hpp"
 # include "../Headers/nullptr.hpp"
