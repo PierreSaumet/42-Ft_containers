@@ -93,8 +93,7 @@ namespace ft {
 				while (n--)
 				{
 					_allocator.construct(_last , *first++);
-					_last++;
-					
+					_last++;	
 				}
 				return ;
 			}
@@ -563,7 +562,6 @@ namespace ft {
 					{
 						_allocator.construct(&(*position) + i, *(&(*position) + i + 1));
 						_allocator.destroy(&(*position) + i + 1);
-						
 					}
 				}
 				_last -= 1;
